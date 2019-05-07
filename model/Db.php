@@ -15,7 +15,7 @@ class Db
         'host' => 'localhost',//主机名
         'port' => '3306',//默认端口
         'user' => 'root',//用户名
-        'pass' => 'heyl1989715',//密码
+        'pass' => '*******',//密码
         'charset' => 'utf8',//默认字符集
         'dbname' => 'edu'//默认数据库
     );
